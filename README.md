@@ -1,4 +1,3 @@
-# CryptoQuant
 	1.	Binary Option Prices:
 	•	The notebook computes the prices of call and put binary options for Ethereum (ETH) under different scenarios. For instance:
 	•	One scenario shows the call option price as 0.1873 and the put option price as 0.8127.
